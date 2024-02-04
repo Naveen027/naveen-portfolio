@@ -7,7 +7,7 @@ function Home() {
                 <div className="row">
                     <div className="col-lg-6" id="avatarbg">
                         <div className="mine">
-                            <img src='mine.png' alt='avatar'/>
+                            <img src='./naveen-portfolio/mine.png' alt='avatar'/>
                         </div>
                     </div>
 
