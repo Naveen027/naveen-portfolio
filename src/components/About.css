@@ -1,0 +1,98 @@
+.title h3{
+    text-align: center;
+    color: white;
+    border-bottom: 2px solid rgb(70 156 231);
+    width: 100px;
+    margin: 0px auto 0px auto;
+    border-width: 5px;
+}
+
+#title{
+  border-bottom: 0px;
+}
+.col-lg-3 {
+    /* border: 2px solid red; */
+    height: 240px;
+    text-align: center;
+    color: #049dff;
+  }
+  
+  .col-lg-12 {
+    /* border: 2px solid red; */
+    height: 50px;
+  }
+  
+  .container .row {
+    margin: 20px 0px 20px 0px;
+    background-color: black;
+  }
+  
+  .col-lg-12 h4 {
+    text-align: center;
+    line-height: 1.8;
+    color: white;
+    margin: 10px 0px 10px 0px;
+    border-bottom: 2px solid rgb(70 156 231);
+    width: 200px;
+    border-width: 5px;
+  }
+  
+  .col-lg-4 {
+    /* border: 1px solid red; */
+    height: 217px;
+  }
+  
+  .col-lg-4 .box {
+    margin-top: 45px;
+    margin-bottom: 50px;
+    box-shadow: 0px;
+  }
+  
+  .fa {
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    color: #049dff;
+    font-size: 24px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    display: block;
+    width: 60px;
+    height: 60px;
+    line-height: 55px;
+    text-align: center;
+    /* vertical-align: middle; */
+    transition: all 0.4s ease-in;
+  }
+  
+  .fa:hover {
+    color: white;
+    border: 2px solid #049dff;
+    background-color: #50a9e0;
+  }
+  
+  .text {
+    text-align: center;
+    color: #049dff;
+    margin: 30px 0px 30px 0px;
+    transition: all 0.4s ease-in;
+  }
+  
+  .text:hover {
+    color: white;
+  }
+  
+  
+  
+  .skill-title {
+    margin-top: 10px;
+  }
+  
+  .what {
+      position: relative;
+      overflow: hidden;
+    margin-top: 10px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }

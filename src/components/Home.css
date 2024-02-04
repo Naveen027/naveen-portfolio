@@ -1,0 +1,116 @@
+.col-lg-6 {
+    /* border: 2px solid red; */
+    height: 540px;
+}
+
+.container .row {
+    margin: 20px 0px 20px 0px;
+    background-color: black;
+}
+
+.col-lg-6 .info {
+    padding: 200px 0px 215px 0px;
+}
+
+.col-lg-6 .text {
+    color: white;
+    text-align: center;
+}
+
+.col-lg-6 .text strong {
+    color: rgb(70 156 231);
+}
+
+.col-lg-6 .mine {
+   padding:62px 90px 62px 100px;
+}
+
+.col-lg-6 .mine img {
+    height: 405px;
+}
+
+#avatarbg{
+    background-image: url('/public/bgimage.gif');
+    background-position: center;
+}
+
+
+.imagination,.frontend{
+    width: 56ch;
+    animation: typing 1s steps(22), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .container {
+        height: 507px;
+    }
+
+    .container .row {
+        margin: 10px 0px 10px 0px;
+        background-color: black;
+    }
+
+    .col-lg-6 {
+        /* background-color: red; */
+        height: 248px;
+    }
+
+    .col-lg-6 .mine {
+        margin: 10px;
+        padding: 0px;
+    }
+
+    .col-lg-6 .mine img {
+        height: 240px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #avatarbg .mine img {
+        background-position-y: center !important;
+    }
+
+    .col-lg-6 .info {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .col-lg-6 .text {
+        padding: 0px;
+        margin-top: 60px;
+    }
+
+    .col-lg-6 .text h4,h5{
+        color: white;
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .imagination,.frontend{
+        width: 33ch;
+        animation: typing 2s steps(22), blink .7s step-end infinite alternate;
+        white-space: nowrap;
+        overflow: hidden;
+        
+      }
+      
+}

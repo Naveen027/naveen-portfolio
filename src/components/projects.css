@@ -1,0 +1,43 @@
+.container-fluid .projects {
+    display: flex;
+    color: rgb(255, 255, 255);
+    height: 100%;
+    margin-bottom: 6%;
+}
+
+.image img {
+    height: 200px;
+    width: 265px;
+    display: block;
+    filter: grayscale(50%); 
+}
+
+.projects {
+    margin-left: 4%;
+}
+
+.box {
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(36, 197, 238, 0.859);
+}
+
+.box button {
+    color: rgb(70 156 231);
+    border: 0px;
+    margin: 10px;
+    background-color: black;
+    border: 1px solid rgb(70 156 231);
+}
+
+.box .details {
+    margin-top: 20px;
+}
+
+#heading {
+    margin: 10px;
+}
+
+.col-lg-12 .proj{
+    margin-left: 45%;
+}

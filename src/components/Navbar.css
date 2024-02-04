@@ -1,0 +1,35 @@
+.navbar-dark .navbar-brand img{
+    height: 70px;
+    width: 135px;
+}
+
+.navbar-nav{
+    margin-left: 50%;
+}
+
+.nav-item{
+    margin: 10px;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+    margin: 5px 15px 5px 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    /* transition: 0.2s ease; */
+    color: rgb(70 156 231);
+}
+
+
+.navbar-dark .navbar-nav .nav-item:hover{
+    border-bottom: 2px solid  rgb(70 156 231);
+    /* border-width: 4px; */
+}
+
+.bg-dark{
+    background-color: transparent;
+}

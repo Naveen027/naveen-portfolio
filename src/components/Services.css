@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    color: rgb(70 156 231);
+    margin: 20px 0px 25px 0px;
+    border-bottom: 5px solid rgb(70 156 231);
+    width: 150px;
+    margin: 0px auto 25px auto;
+}
+
+.edu ul{
+    display: flex;
+    color: white;
+    list-style: none;
+    padding-left: 10px;
+}
+.edu li{
+    margin: 10px;
+}
+.edu ul li h4{
+    font-size: 14px;
+}
+
+.edu img{
+    height:35px;
+    width: 35px;
+}
+ .roles{
+    color: white;
+    margin-left: 70px;
+ }
+
+ .roles h6{
+    line-height: 1.5;
+ }
+
