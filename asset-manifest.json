@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/naveen-portfolio/static/css/main.67c3ebec.css",
+    "main.js": "/naveen-portfolio/static/js/main.f11a12c2.js",
+    "static/js/787.c30fd01a.chunk.js": "/naveen-portfolio/static/js/787.c30fd01a.chunk.js",
+    "static/media/bgimage.gif": "/naveen-portfolio/static/media/bgimage.f702eeac0ece6cb6b306.gif",
+    "index.html": "/naveen-portfolio/index.html",
+    "main.67c3ebec.css.map": "/naveen-portfolio/static/css/main.67c3ebec.css.map",
+    "main.f11a12c2.js.map": "/naveen-portfolio/static/js/main.f11a12c2.js.map",
+    "787.c30fd01a.chunk.js.map": "/naveen-portfolio/static/js/787.c30fd01a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c3ebec.css",
+    "static/js/main.f11a12c2.js"
+  ]
+}
