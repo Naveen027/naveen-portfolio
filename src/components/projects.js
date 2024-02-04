@@ -1,6 +1,6 @@
 import React from 'react';
 import './projects.css';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';//
 
 const projectsData = [
     {
@@ -56,9 +56,9 @@ function Projects() {
                             <img src={project.image} alt={`Project ${project.id}`} />
                         </div>
                         <div>
-                        <Link to={project.link}>
+                        <a href={project.link}>
                             <button>{project.button}</button>
-                            </Link>
+                            </a>
                         </div>
                         <div className='details'>
                             <h4>{project.name}</h4>
