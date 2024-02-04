@@ -11,7 +11,7 @@ function Nabar() {
                     <div className="collapse navbar-collapse" id="collapsibleNavbar">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <Link to="/">home</Link>
+                                <Link to="/">Home</Link>
                             </li>
                             <li className="nav-item">
                                 <Link to="About">Skills</Link>
